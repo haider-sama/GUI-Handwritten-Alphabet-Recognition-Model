@@ -1,5 +1,5 @@
 # Alphabet-Recognition-Model
-GUI made for Alphabet Recognition Model made using Python.
+GUI made for Alphabet Recognition Model made using Python, HTML, Javascript.
 
 -Libraries used scikit-learn, keras, opencv-python, matplotlib, numpy.
 
