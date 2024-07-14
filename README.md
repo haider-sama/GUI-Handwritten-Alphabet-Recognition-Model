@@ -1,3 +1,5 @@
+![Project Image](https://github.com/haider-sama/GUI-Handwritten-Alphabet-Recognition-Model/blob/main/2024-04-24%2021_27_09-Alphabet-Recognition-Model.png)
+
 # Alphabet-Recognition-Model
 GUI made for Alphabet Recognition Model made using Python, HTML, Javascript.
 
